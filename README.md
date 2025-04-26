@@ -39,7 +39,10 @@ Created a dashboard in order to visualize the attrition with different parameter
 
 
 
-Youtube video For better understanding and conclusion : https://www.youtube.com/watch?v=QXe-sXCJPhE
+
+
+
+**Youtube video For better understanding and conclusion** : https://www.youtube.com/watch?v=QXe-sXCJPhE
 
 
 
@@ -57,7 +60,7 @@ The key takeaway from this analysis is that employees in the early stages of the
 
 
 
-LINK FOR HR TABLEU DASHBOARD: 
+LINK FOR HR TABLEAU DASHBOARD: 
 
 https://lnkd.in/dhQnqVHu , https://public.tableau.com/app/profile/ajinkya.adsule/viz/GreenDestinationsHRDashboardUnifiedMentorCaseStudyAnalysisProject/Dashboard1
 
