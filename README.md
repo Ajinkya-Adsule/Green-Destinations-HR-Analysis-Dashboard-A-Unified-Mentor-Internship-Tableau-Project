@@ -59,19 +59,21 @@ The key takeaway from this analysis is that employees in the early stages of the
 
 LINK FOR HR TABLEU DASHBOARD: 
 
-https://lnkd.in/dhQnqVHu
+https://lnkd.in/dhQnqVHu , https://public.tableau.com/app/profile/ajinkya.adsule/viz/GreenDestinationsHRDashboardUnifiedMentorCaseStudyAnalysisProject/Dashboard1
 
 
 
 Check out my other work at tableau Public Profile: 
 
-https://lnkd.in/d3yMmuCH
+https://lnkd.in/d3yMmuCH , https://public.tableau.com/app/profile/ajinkya.adsule/vizzes
 
 
 
 Link to data set from external source: 
 
-https://lnkd.in/dDvKUc7N 
+https://lnkd.in/dDvKUc7N  , 
+
+*Note* : data set , dashboard templates , csv files and tbw files are uploaded in the Project files folder .
 
 
 
